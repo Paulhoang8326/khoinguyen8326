@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://www.instagram.com/nguyn.080326/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
   </a>
   
   <a href="www.linkedin.com/in/khôi-nguyên-hoàng-91198332a">
